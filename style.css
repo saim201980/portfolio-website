@@ -1,0 +1,127 @@
+
+body{
+    margin: 0;
+    padding: o;
+    font-family: 'Lora', serif;
+}
+
+h1{
+     
+    font-size: 30px;
+    
+}
+p{
+    color: dimgray;
+}
+.name-highlight{
+    color:orange;
+}
+.my-image{
+    width: 35%;
+    float: right;
+    margin-left: 5%;
+    padding-left: 5%;
+    
+}
+.my-image img{
+    width: 80%;
+    
+    margin-right: 30%;
+    border-radius: 50%;
+    margin-top: 50px;
+   
+}
+.top-banner{
+    border: 1px solid white;
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+    
+}
+section{
+    height: 400px;
+    padding-bottom: 100px;
+}
+.first-section {
+    margin-top: 60px;
+    padding-left: 30px;
+    
+}
+.link-button {
+    font-size: 1.2rem;
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato );
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.second-image{
+    width: 35%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 5%;
+    
+}
+.second-image img{
+    width: 80%;  
+    margin-right: 20%;
+    border-radius: 50%;
+    margin-bottom: 50px;
+}
+
+.second-section{
+    
+    padding-right: 100px;
+    float: right;
+}
+.second-banner{
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+.my-section{
+    margin-top: 50px;
+    margin-right: 80px;
+    float: right;
+    
+}
+.another-section{
+      margin-left: 80px;
+      float: left;
+     
+}
+.my-section h3{
+    color: orange;
+}
+.another-section h3{
+    color: orange;
+}
+.single-width{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 50%;
+    padding: 5px;
+    background-color: white;
+
+}
+
+.experience-area{
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+    
+    
+}
+#full-stack{
+    border-left: 5px solid blue;
+}
+#half-stack{
+    border-left: 5px solid red;
+}
+.my-footer{
+    text-align: center;
+}
+
+
+
